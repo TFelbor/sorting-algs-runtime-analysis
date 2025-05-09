@@ -1,4 +1,4 @@
-  # CPSC225 : Intermediate Programming Project 1 - Sorting Algorithms Runtime Analysis
+  # CPSC225 : Intermediate Programming Project 3 - Sorting Algorithms Runtime Analysis
   
   This project implements and analyzes the runtime performance of various sorting algorithms. It includes both classic and uncommon sorting   algorithms, with functionality to measure and compare their performance under different conditions, including multi-threaded execution      and various input types.
   
